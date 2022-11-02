@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+consigna.md
+.DS_Store
+common/__pycache__/
+
+data/properties_colombia_test.csv
+data/properties_colombia_train.csv
